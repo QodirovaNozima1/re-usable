@@ -1,0 +1,18 @@
+@media(max-width:1100px){
+    .event{
+        display: flex;
+        flex-direction: column;
+    }
+    .event__line{
+        display:none;
+    }
+    .event__card{
+        width: 400px;
+        padding: 30px;
+    }
+    .event__box{
+        display: flex;
+        flex-direction: column;
+        gap: 20PX;
+    }
+}

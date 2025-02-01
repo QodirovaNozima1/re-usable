@@ -1,0 +1,12 @@
+@media (max-width:800px){
+    .foiz{
+        display: flex;
+        flex-direction: column;
+    }
+    .foiz__title{
+        width:100%;
+    }
+    .foiz__desc{
+        width: 100%;
+    }
+}

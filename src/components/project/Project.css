@@ -1,0 +1,20 @@
+@media(max-width:1200px){
+    .project{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        text-align: center;
+        gap: 40px;
+    }
+    .project__box{
+        display: flex;
+        flex-direction: column;
+    }
+    .project__title{
+        width:100%;
+    }
+    .project__card{
+        width: 100%;
+    }
+}
